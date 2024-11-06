@@ -5,3 +5,11 @@
  - Buttons / tilt switch 
  - Ultrasonic range finder (HC SR04) 
  - GY 61 3 axis accelerometer 
+
+
+
+Join Zoom Meeting
+https://concordia-ca.zoom.us/j/83787834778
+
+Meeting ID: 837 8783 4778
+ 
