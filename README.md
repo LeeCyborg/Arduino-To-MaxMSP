@@ -12,4 +12,7 @@ Join Zoom Meeting
 https://concordia-ca.zoom.us/j/83787834778
 
 Meeting ID: 837 8783 4778
+
+Downlaod the slides 
+https://drive.google.com/file/d/1f5LkalChDM6jeLLX8-NSzkKnnPo2VQFq/view?usp=sharing 
  
