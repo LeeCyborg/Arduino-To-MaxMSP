@@ -5,8 +5,3 @@
  - Buttons / tilt switch 
  - Ultrasonic range finder (HC SR04) 
  - GY 61 3 axis accelerometer 
-
-
-Downlaod the slides 
-https://drive.google.com/file/d/1f5LkalChDM6jeLLX8-NSzkKnnPo2VQFq/view?usp=sharing 
- 
